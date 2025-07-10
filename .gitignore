@@ -1,0 +1,44 @@
+# Ignore virtual environments
+venv/
+.venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment & config files
+.env
+*.env
+*.log
+
+# Ignore dataset and model files (optional, if large)
+*.csv
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.npy
+*.npz
+
+# Ignore SQLite or other local DBs
+*.sqlite3
+*.db
+
+# Ignore export folders or temp outputs
+outputs/
+models/
+checkpoints/
+runs/
+logs/
+
+# VSCode settings (optional)
+.vscode/

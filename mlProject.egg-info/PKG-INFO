@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: mlProject
+Version: 0.0.1
+Summary: A machine learning project for predicting house prices
+Author: Nishant
+Author-email: nishantgupta7995@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn

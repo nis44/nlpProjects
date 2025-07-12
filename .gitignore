@@ -20,7 +20,8 @@ Thumbs.db
 *.env
 *.log
 
-# Ignore dataset and model files (optional, if large)
+# Ignore dataset and model files (optional, if large)\
+*.artifact
 *.csv
 *.h5
 *.hdf5
